@@ -1,4 +1,5 @@
-#This README is AI-Generated because I wanted to convey the terminal commands for the project # Traffic Volume — Model Comparison (Random Forest vs AdaBoost vs XGBoost)
+#This README is AI-Generated because I wanted to convey the terminal commands for the project 
+# Traffic Volume — Model Comparison (Random Forest vs AdaBoost vs XGBoost)
 
 ## Dataset
 Download `Metro_Interstate_Traffic_Volume.csv` from:
